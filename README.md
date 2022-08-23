@@ -1,1 +1,1 @@
-# ds_salary
+# Data science salary analysis
